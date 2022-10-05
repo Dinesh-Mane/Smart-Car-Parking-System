@@ -6,8 +6,8 @@ The main objective of this project is to develop an intelligent, user friendly a
 
 ## Methodology:
 ● Development and Discussion of Idea. <br />
-● Writing C language code in keil software.  <br />
-● Designing the circuit in proteus software and adding hex file to the 8051 micro-controller. <br />
-● Simulation of circuit on proteus software. <br />
+● Writing **C** language code in **keil software**.  <br />
+● Designing the circuit in **proteus software** and adding hex file to the 8051 micro-controller. <br />
+● Simulation of circuit on **proteus software.** <br />
 
-![alt text](http://url/to/img.png)
+[Click here](https://drive.google.com/file/d/1xl7KwKc70WuZXnjaDqWGIXIZhyJ8M3BH/view?usp=sharing​) to see the **simulation part**
